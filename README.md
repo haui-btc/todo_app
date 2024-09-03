@@ -19,6 +19,7 @@ A simple, yet functional To-Do List application built with HTML, CSS, and JavaSc
 ## Screenshots
 
 ![screenshot](todo_app.png)
+![mobile](todo_app_mobile.jpg)
 
 ## Installation
 
