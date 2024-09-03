@@ -1,4 +1,4 @@
-# To-Do List App
+# To-Do App
 
 A simple, yet functional To-Do List application built with HTML, CSS, and JavaScript. This app allows users to add, delete, and manage their tasks efficiently.
 
