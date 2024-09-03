@@ -45,13 +45,17 @@ Make sure you have Docker and Docker Compose installed on your system. You can d
 docker-compose up --build -d
 ```
 
-> Access the application: <br>Open your web browser and go to http://localhost:8080 to see the To-Do List app in action. 3. Stopping the Application
+3. Access the application:<br>
+
+   > Open your web browser and go to http://localhost:8080 to see the To-Do List app in action.
+
+4. Stopping the application
 
 ```bash
 docker-compose down
 ```
 
-4. Customizing the Docker Setup
+5. Customizing the Docker Setup
 
 - Dockerfile: Defines how the application is built into a Docker image.
 - docker-compose.yaml: Defines the services, volumes, and networks required to run the application.
