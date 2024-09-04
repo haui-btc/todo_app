@@ -61,10 +61,6 @@ h1 {
   outline: none;
 }
 
-::placeholder {
-  text-align: center;
-}
-
 /*  put the add button in the input field */
 form {
   position: relative;
@@ -166,5 +162,8 @@ input[type="checkbox"] {
   h1 {
     margin-top: 15px;
     font-size: 15vw;
+  }
+  ::placeholder {
+    text-align: center;
   }
 }
