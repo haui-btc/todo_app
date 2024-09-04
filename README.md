@@ -1,6 +1,6 @@
 # To-Do App
 
-A simple, yet functional To-Do List application built with HTML, CSS, and JavaScript. This app allows users to add, delete, and manage their tasks efficiently.
+A simple, yet functional To-Do application built with HTML, CSS, and JavaScript. This app allows users to add, delete, and manage their tasks efficiently.
 
 ## Features
 
@@ -19,12 +19,13 @@ A simple, yet functional To-Do List application built with HTML, CSS, and JavaSc
 ## Screenshots
 
 ![screenshot](todo_app.png)
+![mobile](todo_app_mobile.jpg)
 
 ## Installation
 
 ### Running the Application with Docker
 
-You can run this To-Do List application in a Docker container using the provided `Dockerfile` and `docker-compose.yaml` file. Follow the steps below to set up and run the application:
+You can run this To-Do application in a Docker container using the provided `Dockerfile` and `docker-compose.yaml` file. Follow the steps below to set up and run the application:
 
 ### Prerequisites
 
@@ -35,8 +36,8 @@ Make sure you have Docker and Docker Compose installed on your system. You can d
 1. **Clone the repository:**
 
 ```bash
-   git clone https://github.com/your-username/todo-list-app.git
-   cd todo-list-app
+   git clone https://github.com/your-username/todo_app.git
+   cd todo_app
 ```
 
 2. Build and start the application
@@ -47,7 +48,7 @@ docker-compose up --build -d
 
 3. Access the application:<br>
 
-   > Open your web browser and go to http://localhost:8080 to see the To-Do List app in action.
+   > Open your web browser and go to http://localhost:8080 to see the To-Do app in action.
 
 4. Stopping the application
 
