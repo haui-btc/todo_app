@@ -57,8 +57,12 @@ h1 {
 }
 
 #todo-input:focus {
-  /* removes input-field highlight*/
+  /* removes input-field highlight */
   outline: none;
+}
+
+::placeholder {
+  text-align: center;
 }
 
 /*  put the add button in the input field */
